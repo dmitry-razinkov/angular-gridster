@@ -5,6 +5,10 @@
 	"license": "MIT",
 	"homepage": "http://manifestwebdesign.github.io/angular-gridster",
 	"authors": "https://github.com/ManifestWebDesign/angular-gridster/graphs/contributors",
+	"dependencies": {
+		"angular": ">= 1.2.0",
+		"javascript-detect-element-resize": "~0.5.1"
+	},
 	"devDependencies": {
 		"grunt": "^1.0.1",
 		"grunt-bump": "0.8.0",
